@@ -5,6 +5,10 @@
 
 ## 1. Linux uppsetning
 
+![Screenshot Andri](http://i.imgur.com/d2o0AUl.png?1)
+
+![Screenshot Johann](http://i.imgur.com/XNCF6Xw.png?1)
+
 We both used Virtualbox and Ubuntu Image 13.04 to install Linux. The process was quick and painless.
 
 ## 2. Uppsetning á vim && git
