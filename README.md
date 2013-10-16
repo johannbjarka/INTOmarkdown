@@ -1,7 +1,7 @@
 #Open Source
 
-* Johann Orn Bjarkason
-* Andri Ivarsson
+* Jóhann Örn Bjarkason
+* Andri Ívarsson
 
 ## 1. Linux uppsetning
 
